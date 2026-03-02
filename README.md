@@ -38,6 +38,6 @@ El fitxer `faqs.json` ha estat validat i estructurat de manera escalable mitjan√
 ---
 
 ## 5. Integrants de l'Equip
-* **Nom Cognom 1** - Responsable de Documentaci√≥
-* **Nom Cognom 2** - Programador JSON
-* **Nom Cognom 3** - UX i Recerca
+* **Nom Cognom 1** - Iman noor
+* **Nom Cognom 2** - Sergi villanueva
+* **Nom Cognom 3** - Miquel martin
