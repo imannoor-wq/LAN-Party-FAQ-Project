@@ -30,7 +30,7 @@ El fitxer `faqs.json` ha estat validat i estructurat de manera escalable mitjan�
 ---
 
 ## 4. Evidències del Procés
-*Aquí penjarem les captures de pantalla del treball en equip i la validació del codi:*
+*Podeu consultar les evidències visuals i el procés de treball detallat al nostre lloc web de WordPress.*
 
 * **Captura de Validació JSON:** ![Validació](URL_DE_LA_TEVA_IMATGE)
 * **Treball en Equip:** ![Equip](URL_DE_LA_TEVA_IMATGE)
