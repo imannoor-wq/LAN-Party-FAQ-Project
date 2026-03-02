@@ -1,4 +1,4 @@
-# LAN-Party-FAQ-Project
+
 # 🎮 LAN Party FAQ Project
 
 ## 1. Justificació (Anàlisi d'UX)
@@ -25,15 +25,14 @@ Hem analitzat els punts crítics (connexió, energia i programari) per garantir 
 El fitxer `faqs.json` ha estat validat i estructurat de manera escalable mitjançant l'ús de claus consistents, IDs únics i categories. 
 
 > [!TIP]
-> **Veure el fitxer JSON aquí:** [faqs.json](./faqs.json) (Recorda pujar aquest fitxer al repositori!)
+> **Veure el fitxer JSON aquí:** [faqs.json](./faqs.json) 
 
 ---
 
 ## 4. Evidències del Procés
 *Podeu consultar les evidències visuals i el procés de treball detallat al nostre lloc web de WordPress.*
 
-* **Captura de Validació JSON:** ![Validació](URL_DE_LA_TEVA_IMATGE)
-* **Treball en Equip:** ![Equip](URL_DE_LA_TEVA_IMATGE)
+
 
 ---
 
