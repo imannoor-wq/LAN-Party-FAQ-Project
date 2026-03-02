@@ -1,0 +1,16 @@
+{
+  "lan_party_faqs": [
+    {
+      "id": 1,
+      "categoria": "Xarxa i Connectivitat",
+      "pregunta": "Quina velocitat de xarxa tindrem?",
+      "resposta": "Tindrem 1Gbps simètric per a tots els participants."
+    },
+    {
+      "id": 2,
+      "categoria": "Hardware",
+      "pregunta": "Cal portar cable de xarxa?",
+      "resposta": "Sí, és obligatori portar un cable CAT6 de 5 metres."
+    }
+  ]
+}
