@@ -40,3 +40,10 @@ El fitxer `faqs.json` ha estat validat i estructurat de manera escalable mitjan�
 * **Nom Cognom 1** - Iman noor
 * **Nom Cognom 2** - Sergi villanueva
 * **Nom Cognom 3** - Miquel martín
+
+---
+
+## 6. Integració del Xatbot
+Hem integrat un xatbot d'IA per ajudar els usuaris en temps real.
+* **Codi del BackEnd:** [Veure aquí](./xatbot-integration/server.js)
+* **Seguretat:** Les claus API estan protegides al servidor per evitar filtracions al navegador.
